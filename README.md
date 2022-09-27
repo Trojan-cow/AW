@@ -1,4 +1,4 @@
-#Attendance Manager
+# Attendance Manager
 
 used to track the login and logout times of an employee
 a register with all the employess as objects
